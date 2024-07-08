@@ -2,20 +2,35 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
+      <entry key="ChatUI">
+        <State />
+      </entry>
+      <entry key="DefaultPreview">
+        <State />
+      </entry>
+      <entry key="HomePreview (1)">
+        <State />
+      </entry>
+      <entry key="Massges">
+        <State />
+      </entry>
+      <entry key="VerifyPreview">
+        <State />
+      </entry>
       <entry key="app">
         <State>
-          <targetSelectedWithDropDown>
+          <runningDeviceTargetSelectedWithDropDown>
             <Target>
-              <type value="QUICK_BOOT_TARGET" />
+              <type value="RUNNING_DEVICE_TARGET" />
               <deviceKey>
                 <Key>
-                  <type value="VIRTUAL_DEVICE_PATH" />
-                  <value value="$USER_HOME$/.android/avd/Pixel_7_Pro_API_30.avd" />
+                  <type value="SERIAL_NUMBER" />
+                  <value value="adb-EUJB7PLVBIHANBFU-qC5J0e._adb-tls-connect._tcp" />
                 </Key>
               </deviceKey>
             </Target>
-          </targetSelectedWithDropDown>
-          <timeTargetWasSelectedWithDropDown value="2024-02-15T20:17:29.133120996Z" />
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-05-10T16:47:46.247336900Z" />
         </State>
       </entry>
     </value>
